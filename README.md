@@ -4,6 +4,6 @@ Cách chạy ứng dung:
 -Chạy Capacitor với androi trong vs code:npx cap run android --target=My_AVD_android9
 -Các bước thực hiện:
 + Nhập vào chiều cao, cân nặng => nhấn Tính BMI.
-+ Nhập chia sẻ kết quả để chia sẽ kết quả BMI vừa tính được.
++ Nhấn chia sẻ kết quả để chia sẽ kết quả BMI vừa tính được.
 + Nhấn chụp ảnh để chụp ảnh người dùng.
   
